@@ -29,6 +29,6 @@ Recibe el array de amigos y genera una lista <li>por cada elemento. Primero limp
 ###### agregarAmigo()
 Toma el valor del input y valida que no esté vacío. Si hay un nombre, lo agrega al array, limpia la caja y actualiza la lista en pantalla.
 
-######sortearAmigo()
+###### sortearAmigo()
 Elige un nombre aleatorio del array usando Math.random y lo muestra en pantalla. Si no hay amigos, muestra una alerta pidiendo que se agreguen.
 
